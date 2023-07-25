@@ -25,3 +25,15 @@
 
  Mas eu estou gostando e aprofundandomais em :
  - [x] JAVA;
+
+Linguagens que pretendo aprender e aprimorar:
+
+Linguagem | Nível | Ano
+---|---|---
+jAVA | Avançado | 2023
+PHP | Avançado | 2023
+C | Intermediário | 2023
+PYTHON | Avançado | 2023
+
+
+
