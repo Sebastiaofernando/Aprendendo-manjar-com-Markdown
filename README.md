@@ -24,4 +24,4 @@
  * PYTHON;
 
  Mas eu estou gostando e aprofundandomais em :
- -[x] JAVA;
+ - [x] JAVA;
