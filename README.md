@@ -5,7 +5,7 @@
 
  __*Sebastião Fernando Baca Pedro*__
  
- ~~´21 anos de idade~~
+ ~~21 anos de idade~~
 
  ---
 
